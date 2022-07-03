@@ -1,0 +1,17 @@
+{
+  "name": "msgpack-object-id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "type": "module",
+  "author": "Joey Fang",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.2",
+    "mongoose": "^6.4.2",
+    "msgpackr": "^1.6.1"
+  }
+}
