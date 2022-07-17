@@ -1,6 +1,7 @@
 {
-  "name": "msgpack-object-id",
-  "version": "1.0.0",
+  "name": "mongoose6-msgpack",
+  "private":true,
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +11,8 @@
   "author": "Joey Fang",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^28.1.2",
     "mongoose": "^6.4.2",
-    "msgpackr": "^1.6.1"
+    "jest": "^28.1.2",
+    "msgpack-lite": "^0.1.26"
   }
 }
